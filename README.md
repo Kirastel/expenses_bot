@@ -1,15 +1,19 @@
 
 1. Clone the repository:
+
 ```git clone https://github.com/Kirastel/films_review.git && cd films_review```
 
 
 2. Create a virtual environment:
+
 ```python3 -m venv venv```
 
 3. Activate the virtual environment:
+
 ```source venv/bin/activate```
 
 4. Install all required dependencies:
+
 ```pip install -r requirements.txt```
 
 5. Edit config.py: 
