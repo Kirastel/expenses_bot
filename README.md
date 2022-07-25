@@ -1,8 +1,8 @@
 
 1. ### Clone the repository:
 
-```git clone https://github.com/Kirastel/films_review.git && cd films_review```
-
+```git clone https://github.com/Kirastel/expenses_bot.git && cd expenses_bot
+```
 
 2. ### Create a virtual environment:
 
